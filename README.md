@@ -1,10 +1,11 @@
-#React App Initializer
+# React App Initializer
 
-##Set up your environment for React Apps
+## Set up your environment for React Apps
 
-##To use this package, make sure you are in the directory that you would like to create your app in, and run ```npm init megan-react-app [your new app's directory]```
+### To use this package, make sure you are in the directory that you would like to create your app in, and run:
+```npm init megan-react-app [your new app's directory]```
 
-###This will set you up a directory with the following files:
+### This will set you up a directory with the following files:
   - .travis.yml
   - .babelrc
   - webpack.config.js
@@ -13,11 +14,11 @@
   - index.js
   - index.html
 
-###It will also install the following dependencies:
+### It will also install the following dependencies:
   - react
   - react-dom
 
-###And the following dev dependencies:
+### And the following dev dependencies:
   -  '@babel/core',
   - '@babel/plugin-proposal-class-properties',
   - '@babel/preset-env',
