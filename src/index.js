@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const fs = require('fs');
 
 const depsInstaller = require('./installers/dependencies-installer');

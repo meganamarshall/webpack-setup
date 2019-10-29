@@ -1,9 +1,12 @@
 {
-  "name": "webpack-setup",
-  "version": "1.0.0",
+  "name": "create-megan-react-app",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "jest"
+  },
+  "bin": {
+    "create-megan-react-app": "./src/index.js"
   },
   "repository": {
     "type": "git",
